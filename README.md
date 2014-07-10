@@ -1,7 +1,5 @@
 # Calla-illy
 
-## About:
-
 Print-optimzed months-in-year calendar to assist workplace productivity.
 
 Intended to be laminated (with dry-erase laminate) and hung in workplace for folks to mark important dates and make notes in gutter space.
@@ -30,13 +28,13 @@ The TrueType fonts used are included in the repo, though one could [download fro
 * Roboto Medium
 * Roboto Black
 
-## Links
-
-* [Adding Dates to a Calendar in Illustrator](http://www.deke.com/content/adding-dates-a-calendar-illustrator)
-
 ## Note(s)
 
 * When updating this repo for a new year, **don’t forget to [create a release](https://help.github.com/articles/creating-releases) for the previous year**.
+
+## Links
+
+* [Adding Dates to a Calendar in Illustrator](http://www.deke.com/content/adding-dates-a-calendar-illustrator)
 
 ---
 
