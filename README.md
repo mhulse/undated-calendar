@@ -1,5 +1,7 @@
 # Calla-illy
 
+![Demo pic](demo.png)
+
 Print-optimzed months-in-year calendar to assist workplace productivity.
 
 Intended to be laminated (with dry-erase laminate) and hung in workplace for folks to mark important dates and make notes in gutter space.
