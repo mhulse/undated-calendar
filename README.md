@@ -11,6 +11,8 @@ I recommend printing at FedEx Office; send `undated-calendar.pdf` to <printandgo
 
 Use [1" x 3" Post-it Page Markers](http://amzn.com/B003IJW6IY) and/or [Expo Vis-A-Vis Wet-Erase Overhead Transparency Markers](http://amzn.com/B00006IFGW). Finally, use [Blu-Tack Reusable Adhesive](http://amzn.com/B001FGLX72) to affix the laminated calendar to your wall.
 
+Original/alternative year calendar [can be found here](https://github.com/mhulse/undated-calendar/tree/calla-illy).
+
 ---
 
 Copyright © 2016 [Michael Hulse](http://mky.io)
