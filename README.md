@@ -7,7 +7,7 @@
 * **Color Profile:** U.S. Web Coated (SWOP) v2
 * **Fonts:** [Droid Sans Mono (TrueType)](https://www.google.com/fonts/specimen/Droid+Sans+Mono)
 
-I recommend printing at FedEx Office; send `undated-calendar.pdf` to <printandgo@fedex.com> and give “Retrieval Code” to a FedEx representative. From there, have them do a plotter print and ask for it to be trimmed and laminated. The completed calendar should run you about $15.
+I recommend printing at FedEx Office; send [`undated-calendar.pdf`](https://github.com/mhulse/undated-calendar/raw/master/undated-calendar.pdf) to <printandgo@fedex.com> and give “Retrieval Code” to a FedEx representative. From there, have them do a plotter print and ask for it to be trimmed and laminated. The completed calendar should run you about $15.
 
 Use [1" x 3" Post-it Page Markers](http://amzn.com/B003IJW6IY) and/or [Expo Vis-A-Vis Wet-Erase Overhead Transparency Markers](http://amzn.com/B00006IFGW). Finally, use [Blu-Tack Reusable Adhesive](http://amzn.com/B001FGLX72) to affix the laminated calendar to your wall.
 
